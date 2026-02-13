@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Muhammad Zulfikar**.<br>
 
-Saya seorang **Mahasiswa** di **Universitas Sains AL-Quran**.<br>
+Saya seorang **Mahasiswa** di **Universitas Sains Al-Quran**.<br>
 Saya sedang menempuh Pendidikan di program studi **Teknik Informatika**.<br>
 
 ### Github Statistic
